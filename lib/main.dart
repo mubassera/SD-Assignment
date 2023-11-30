@@ -31,7 +31,7 @@ class Bookapp extends StatelessWidget {
         ),
         body: Column(
           children: [
-            BookCard("Himu", "Humayun Ahmed", "7.5", "Himu.jpg","Himu,it is a popular fictional character created by Bangladeshi author Humayun Ahmed. The series revolves around Himu, a unique and philosophical young man who leads an unconventional lifestyle, embracing simplicity and exploring the complexities of life in an intriguing and thought-provoking manner."),
+            BookCard("Himu", "Humayun Ahmed", "7", "Himu.jpg","Himu,it is a popular fictional character created by Bangladeshi author Humayun Ahmed. The series revolves around Himu, a unique and philosophical young man who leads an unconventional lifestyle, embracing simplicity and exploring the complexities of life in an intriguing and thought-provoking manner."),
             BookCard("Misir Ali Shomogro", "Humayun Ahmed", "9", "misirali.jpg","The Misir Ali series, written by renowned Bangladeshi author Humayun Ahmed, delves into the enigmatic and analytical mind of the titular character, Misir Ali, a brilliant but eccentric psychologist. The books explore his encounters with the supernatural, psychology, and his personal reflections, creating a captivating blend of mystery and introspection."),
           ],
         )
